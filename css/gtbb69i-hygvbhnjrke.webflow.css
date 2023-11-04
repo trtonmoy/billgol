@@ -278,8 +278,12 @@
 .bg-gif._2 {
   z-index: -1;
   opacity: 0.3;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+  background: linear-gradient(
+      rgba(159, 138, 138, 0.218),
+      rgba(184, 184, 184, 0.137)
+    ),
     url("../images/back.jpg");
+
   background-position: center center;
   background-size: cover;
   background-attachment: scroll;
