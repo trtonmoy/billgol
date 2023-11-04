@@ -280,7 +280,7 @@
   opacity: 0.3;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("../images/back.jpg");
-  background-position: 0 0;
+  background-position: center center;
   background-size: cover;
   background-attachment: scroll;
 }
